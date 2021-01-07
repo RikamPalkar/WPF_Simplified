@@ -15,50 +15,54 @@ namespace HelloWPFSample
         /// <param name="name"></param>
         /// <param name="age"></param>
         /// <param name="bookName"></param>
-        public Author(string name, Int16 age, string bookName)
+        public Author(string name, short age, string bookName)
         {
-            this.AuthorName = name;
-            this.AuthorAge = age;
-            this.PublishedBook = bookName;
+            AuthorName = name;
+            AuthorAge = age;
+            PublishedBook = bookName;
         }
 
         /// <summary>
         /// The property name
         /// </summary>
-        private string name;
+        private string _name;
+        
         /// <summary>
         /// The property AuthorName
         /// </summary>
         public string AuthorName
         {
-            get { return name; }
-            set { name = value; }
+            get => _name;
+            set => _name = value;
         }
 
         /// <summary>
         /// The property age
         /// </summary>
-        private Int16 age;
+        private short _age;
+        
         /// <summary>
         /// The property AuthorAge
         /// </summary>
-        public Int16 AuthorAge
+        public short AuthorAge
         {
-            get { return age; }
-            set { age = value; }
+            get => _age;
+            set => _age = value;
         }
 
         /// <summary>
         /// The property book
         /// </summary>
-        private string book;
+        private string _book;
+        
         /// <summary>
         /// The property PublishedBook
         /// </summary>
+        
         public string PublishedBook
         {
-            get { return book; }
-            set { book = value; }
+            get => _book;
+            set => _book = value;
         }
     }
 }
