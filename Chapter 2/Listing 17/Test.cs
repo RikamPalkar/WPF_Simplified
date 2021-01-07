@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HelloWPFSample
 {
-    class Test
+    public class SaveCookie
     {
         string simpleCookie = "CSCUser1=DonJoe";
         string cookieWithExpiration = "CSCUser2=DonJoe;expires=Mon, 1-Mar-2021 00:00:00 GMT";
