@@ -1,0 +1,13 @@
+C:\Users\Rikam\source\repos\XamlFileBrowser\bin\Debug\XamlFileBrowser.dll
+C:\Users\Rikam\source\repos\XamlFileBrowser\bin\Debug\XamlFileBrowser.pdb
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\XamlFileBrowser.csprojAssemblyReference.cache
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\UserControl1.g.cs
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\XamlFileBrowser_MarkupCompile.cache
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\XamlFileBrowser_MarkupCompile.lref
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\UserControl1.baml
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\XamlFileBrowser.g.resources
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\XamlFileBrowser.Properties.Resources.resources
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\XamlFileBrowser.csproj.GenerateResource.cache
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\XamlFileBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\XamlFileBrowser.dll
+C:\Users\Rikam\source\repos\XamlFileBrowser\obj\Debug\XamlFileBrowser.pdb
