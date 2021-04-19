@@ -1,0 +1,11 @@
+﻿<Application x:Class="HelloWPFSample.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HelloWPFSample"
+             Startup="App_Startup">
+    <Application.MainWindow>
+        <NavigationWindow x:Name='MainNavigationWindow' 
+            Source=" MainWindow.xaml" 
+            Visibility="Visible"/>
+    </Application.MainWindow>
+</Application>
