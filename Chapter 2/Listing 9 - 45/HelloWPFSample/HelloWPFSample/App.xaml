@@ -1,0 +1,32 @@
+﻿<Application x:Class="HelloWPFSample.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HelloWPFSample"
+             StartupUri="Window1.xaml"
+             Startup="Application_Startup"
+             ShutdownMode="OnLastWindowClose"
+             SessionEnding="Application_SessionEnding"
+             Activated="Application_Activated"
+             Deactivated="Application_Deactivated"
+             Exit="Application_Exit"
+             DispatcherUnhandledException="Application_DispatcherUnhandledException"
+             >
+    <!-- Listing 13, 23, 26, 29, 32, 34, 43 -->
+    <Application.Resources>
+        <!-- Listing 10 -->
+        <!-- YellowSolidBrush -->
+        <SolidColorBrush x:Key="YellowSolidBrush" Color="Yellow"/>
+
+        <!-- Style for Submit Button -->
+        <Style x:Key="SubmitButtonStyle"
+	 	BasedOn="{StaticResource {x:Type Button}}" 
+	       TargetType="Button">
+            <Setter Property="Height" Value="20"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Content" Value="Submit"/>
+        </Style>
+    </Application.Resources>
+
+</Application>
