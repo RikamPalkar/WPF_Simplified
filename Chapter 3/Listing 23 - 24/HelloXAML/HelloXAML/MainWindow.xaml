@@ -1,0 +1,62 @@
+﻿<Window x:Class="HelloXAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloXAML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Canvas x:Name="LayoutRoot" Background="White">
+        <!-- Create a line in XAML -->
+            <!-- Create a Line in XAML -->
+            <Line x:Name="LineShape"
+                Stroke="Red"
+                StrokeThickness="2" 
+                X1="0" 
+                Y1="0"
+                X2="250" 
+                Y2="0"
+                Canvas.Left="10" 
+                Canvas.Top="20"/>
+
+            <!-- Create a Rectangle in XAML -->
+            <Rectangle x:Name="RectangleShape"
+                   Fill="Blue"
+                   Height="100"
+                   Stroke="Black"
+                   StrokeThickness="2" 
+                   Width="200"
+                   Canvas.Left="10" 
+                   Canvas.Top="40"/>
+
+            <!-- Create an Ellipse in XAML -->
+            <Ellipse x:Name="EllipseShape"
+                 Fill="Yellow"
+                 Height="100"
+                 Stroke="Black"
+                 StrokeThickness="2" 
+                 Width="200"
+                 Canvas.Left="10" 
+                 Canvas.Top="150"/>
+
+            <!-- Create a polygon in XAML -->
+            <Polygon x:Name="PolygonShape" 
+                 Fill="LightGreen" 
+                 Points="50, 100 200, 100 200, 200 300, 30"
+                 Stroke="Black"
+                 StrokeThickness="4"
+                 Canvas.Left="200" 
+                 Canvas.Top="0"/>
+
+            <!-- Create a polyline in XAML-->
+            <Polyline x:Name="PolylineShape" 
+                  Points="10,100 100,200 200,30 250,200 200,150"
+                  Stroke="Black"
+                  StrokeThickness="4" 
+                  Canvas.Left="250" 
+                  Canvas.Top="100"/>
+
+        </Canvas>
+        
+</Window>
