@@ -1,0 +1,47 @@
+﻿<Window x:Class="HelloXAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloXAML"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="600">
+    <Grid x:Name="GridMain" >
+        <TextBox Name="TextBoxUserInput"
+                 Height="23" 
+                 HorizontalAlignment="Left"
+                 Margin="8,14,0,0" 
+                 VerticalAlignment="Top" 
+                 Width="127" />
+        <Button x:Name="button1"
+                Click="button1_Click"
+                Content="Add Item"
+                Height="23"
+                HorizontalAlignment="Left"
+                Margin="230,14,0,0" 
+                Width="76" 
+                VerticalAlignment="Top"/>
+        <Button x:Name="ButtonDelete" 
+                Content="Delete Item" 
+                Click="DeleteButton_Click"
+                Height="23" 
+                Margin="100,14,0,0" 
+                VerticalAlignment="Top" 
+                Width="76"/>
+        <ListBox Name="ListBoxBeverages" 
+            HorizontalAlignment="Left" 
+            Height="200"
+            Margin="10,10,0,13" 
+            VerticalAlignment="Top"
+            Width="194" >
+            <ListBoxItem Content="Coffie"/>
+            <ListBoxItem Content="Tea"/>
+            <ListBoxItem Content="Orange Juice"/>
+            <ListBoxItem Content="Milk"/>
+            <ListBoxItem Content="Iced Tea"/>
+            <ListBoxItem Content="Mango Shake"/>
+        </ListBox>
+    </Grid>
+
+</Window>
