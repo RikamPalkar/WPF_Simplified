@@ -1,0 +1,39 @@
+﻿<Window x:Class="ChapterFour_Layout.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChapterFour_Layout"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="220" Width="600">
+        <StackPanel x:Name="StackPanelOuter" 
+                    Background="LightGray">
+            <Button Name="ButtonFirst" 
+                    Background="LightBlue" 
+                    Content="Left Aligned" 
+                    Height="50"
+                    HorizontalAlignment="Left"
+                    Width="150" />
+
+            <Button x:Name="ButtonSecond" 
+                    Background="LightGreen" 
+                    Content="Center Aligned" 
+                    Height="50"
+                    HorizontalAlignment="Center" 
+                    Width="150" />
+
+            <Button x:Name="ButtonThird"
+                    Background="LightCyan" 
+                    Content="Right Aligned" 
+                    Height="50"
+                    HorizontalAlignment="Right"
+                    Width="150"/>
+
+            <Button Name="ButtonFourth" 
+                    Background="LightPink" 
+                    Content="Stretch Aligned"
+                    Height="50"
+                    HorizontalAlignment="Stretch"/>
+        </StackPanel>
+
+</Window>
