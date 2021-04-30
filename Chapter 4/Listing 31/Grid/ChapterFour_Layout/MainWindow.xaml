@@ -1,0 +1,132 @@
+﻿<Window x:Class="ChapterFour_Layout.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChapterFour_Layout"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="400">
+    <Grid x:Name="MainGrid" 
+          Background="LightSteelBlue" 
+          ShowGridLines="False"
+          Width="400">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="120" />
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25" />
+            <RowDefinition Height="22" />
+            <RowDefinition Height="22" />
+            <RowDefinition Height="22" />
+            <RowDefinition Height="22" />
+            <RowDefinition Height="22" />
+        </Grid.RowDefinitions>
+
+
+        <TextBlock x:Name="TextBlockHeaderOne"
+            FontSize="14" 
+            FontWeight="Bold" 
+            Foreground="Green" 
+            Height="20" 
+            Text="Model Name"
+            VerticalAlignment="Top"/>
+
+        <TextBlock x:Name="TextBlockHeaderSecond"
+            FontSize="14" 
+            FontWeight="Bold" 
+            Foreground="Green"
+            Height="20"
+            Text="OS"
+            VerticalAlignment="Top"
+            Grid.Column="1" />
+
+        <TextBlock x:Name="TextBlockHeaderThird"
+            FontSize="14"
+            FontWeight="Bold"
+            Foreground="Green"
+            Text="Company"
+            Height="20" 
+            VerticalAlignment="Top"
+            Grid.Column="2" />
+
+        <TextBlock x:Name="TextBlockModelOne"
+            FontSize="12"
+            Text="iPhone 12"
+            Grid.Row="1"/>
+
+        <TextBlock x:Name="TextBlockOSOne"
+            FontSize="12" 
+            Text="ios 14"
+            Grid.Column="1"
+            Grid.Row="1" />
+
+        <TextBlock x:Name="TextBlockCompanyOne"
+            FontSize="12"
+            Text="Apple"
+            Grid.Row="1" 
+            Grid.Column="2"/>
+
+        <TextBlock x:Name="TextBlockModelTwo"
+            FontSize="12"
+            Text="Note 20"
+            Grid.Row="2" />
+
+        <TextBlock x:Name="TextBlockMOSTwo"
+            FontSize="12"
+            Text="Android"
+            Grid.Column="1"
+            Grid.Row="2" />
+
+        <TextBlock x:Name="TextBlockCompanyTwo"
+            FontSize="12"
+            Text="Samsung"
+            Grid.Column="2"
+            Grid.Row="2" />
+
+        <TextBlock x:Name="TextBlockModelThird" 
+            Text="BlackBerry Bold 9000"
+            Grid.Row="3" />
+
+        <TextBlock x:Name="TextBlockOSThird" 
+            Text="BlackBerry OS 6"
+            Grid.Column="1" 
+            Grid.Row="3" />
+
+        <TextBlock x:Name="TextBlockCompanyThird"  
+            Text="BlackBerry"
+            Grid.Column="2" 
+            Grid.Row="3" />
+
+        <TextBlock x:Name="TextBlockModelFourth"  
+            Text="Nokia Lumia 630"
+            Grid.Row="4"/>
+
+        <TextBlock x:Name="TextBlockOSFourth"  
+            Text="Windows 8.1"
+            Grid.Column="1" 
+            Grid.Row="4"  />
+
+        <TextBlock x:Name="TextBlockCompanyFourth"  
+            Text="Nokia"
+            Grid.Column="2" 
+            Grid.Row="4" />
+
+        <TextBlock x:Name="TextBlockModelFifth" 
+            Text="Sony Ericsson Walkman"
+            Grid.Row="5"  />
+
+        <TextBlock x:Name="TextBlockOSFifth" 
+            Text="Symbian"
+            Grid.Column="1" 
+            Grid.Row="5" />
+
+        <TextBlock x:Name="TextBlockCompanyFifth"
+            Text="Sony Ericsson"
+            Grid.Column="2"
+            Grid.Row="5"  />
+
+    </Grid>
+
+</Window>
