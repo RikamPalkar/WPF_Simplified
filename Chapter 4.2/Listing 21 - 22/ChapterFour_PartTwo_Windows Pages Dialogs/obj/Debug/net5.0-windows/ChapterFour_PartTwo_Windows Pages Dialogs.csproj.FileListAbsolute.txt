@@ -1,0 +1,22 @@
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\bin\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.exe
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\bin\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.deps.json
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\bin\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.runtimeconfig.json
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\bin\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.runtimeconfig.dev.json
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\bin\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.dll
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\bin\Debug\net5.0-windows\ref\ChapterFour_PartTwo_Windows Pages Dialogs.dll
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\bin\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.pdb
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.csproj.AssemblyReference.cache
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs_MarkupCompile.cache
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs_MarkupCompile.lref
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.g.resources
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.AssemblyInfoInputs.cache
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.AssemblyInfo.cs
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.csproj.CoreCompileInputs.cache
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.dll
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ref\ChapterFour_PartTwo_Windows Pages Dialogs.dll
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.pdb
+C:\Users\Rikam\source\repos\ChapterFour_PartTwo_Windows Pages Dialogs\ChapterFour_PartTwo_Windows Pages Dialogs\obj\Debug\net5.0-windows\ChapterFour_PartTwo_Windows Pages Dialogs.genruntimeconfig.cache
