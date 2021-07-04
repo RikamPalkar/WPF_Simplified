@@ -1,0 +1,43 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Thickness x:Key="MarginB">0 0 0 10</Thickness>
+    <ControlTemplate x:Key="RoundButtonTemplate">
+        <Grid>
+            <Ellipse x:Name="OuterCircle" 
+                         Height="65" 
+                         Width="65">
+                <Ellipse.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,0.5">
+                        <GradientStop Offset="0" Color="OrangeRed"  />
+                        <GradientStop Offset="1" Color="Orange" />
+                    </LinearGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+
+            <Ellipse x:Name="InnerCircle" 
+                         Height="45" 
+                         Width="45">
+                <Ellipse.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                        <GradientStop Offset="0" Color="White" />
+                        <GradientStop Offset="1" Color="OrangeRed" />
+                    </LinearGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+
+            <ContentPresenter  Content="Submit" 
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center" />
+        </Grid>
+        <ControlTemplate.Triggers>
+            <Trigger Property="Button.IsMouseOver" Value="True">
+                <Setter TargetName="InnerCircle" Property="Fill" Value="LightGreen" />
+            </Trigger>
+            <Trigger Property="Button.IsPressed" Value="True">
+                <Setter TargetName="InnerCircle" Property="Width" Value="60" />
+                <Setter TargetName="InnerCircle" Property="Height" Value="60" />
+                <Setter TargetName="OuterCircle" Property="Fill" Value="Gray" />
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+</ResourceDictionary>

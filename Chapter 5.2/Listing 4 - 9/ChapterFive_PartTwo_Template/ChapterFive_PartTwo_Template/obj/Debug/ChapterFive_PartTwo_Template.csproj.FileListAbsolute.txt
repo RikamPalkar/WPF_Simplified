@@ -1,0 +1,15 @@
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\bin\Debug\ChapterFive_PartTwo_Template.exe.config
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\bin\Debug\ChapterFive_PartTwo_Template.exe
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\bin\Debug\ChapterFive_PartTwo_Template.pdb
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\MainWindow.g.cs
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\App.g.cs
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\ChapterFive_PartTwo_Template_MarkupCompile.cache
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\MainWindow.baml
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\ChapterFive_PartTwo_Template.g.resources
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\ChapterFive_PartTwo_Template.Properties.Resources.resources
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\ChapterFive_PartTwo_Template.csproj.GenerateResource.cache
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\ChapterFive_PartTwo_Template.csproj.CoreCompileInputs.cache
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\ChapterFive_PartTwo_Template.exe
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\ChapterFive_PartTwo_Template.pdb
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\ResourceDictionaryTemplate.baml
+C:\Users\Rikam\source\repos\ChapterFive_PartTwo_Template\ChapterFive_PartTwo_Template\obj\Debug\ChapterFive_PartTwo_Template.csproj.AssemblyReference.cache
