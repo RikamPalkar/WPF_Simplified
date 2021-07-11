@@ -1,0 +1,25 @@
+﻿<Window x:Class="ChcekBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChcekBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300">
+    <Grid x:Name="LayoutRoot">
+        <CheckBox x:Name="CheckBoxControl" 
+                  Content="Check Me"
+                  Checked="CheckBoxControl_Checked" 
+                  Foreground="Red"
+                  FontFamily="Georgia" 
+                  FontSize="15" 
+                  FontWeight="ExtraLight" 
+                  IsChecked="True" 
+                  IsThreeState="True" 
+                  HorizontalAlignment="Center"
+                  VerticalAlignment="Center"
+                  Unchecked="CheckBoxControl_Unchecked">
+        </CheckBox>
+
+    </Grid>
+</Window>
